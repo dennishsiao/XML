@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servants>
+	<servant>
+		<id>17</id>
+		<name>庫・夫林</name>
+		<star>3</star>
+		<class>Lancer</class>
+		<maxhp>9593</maxhp>
+		<maxatk>7239</maxatk>
+		<commandcard>QQABB</commandcard>
+		<NoblePhantasm>(Q)刺穿死棘之槍</NoblePhantasm>
+	</servant>
+	<servant>
+		<id>98</id>
+		<name>庫・夫林[Alter]</name>
+		<star>5</star>
+		<class>Berserker</class>
+		<maxhp>12210</maxhp>
+		<maxatk>12805</maxatk>
+		<commandcard>QABBB</commandcard>
+		<NoblePhantasm>(B)咬碎死牙之獸</NoblePhantasm>
+	</servant>
+</servants>
